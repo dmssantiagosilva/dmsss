@@ -1,12 +1,11 @@
  <!DOCTYPE html>
 <HTML>
   <head>
-    <title>SOPORTE ES GEI</title>
+    <title></title>
   </head>
   <body>
     <div id="una capa">
-      <h1>LE ENCANTA COMER PENES!</h1>
-      <p>jejejjeje.</p>
+      <img src="dmss/WhatsApp Image 2024-04-10 at 15.57.18.jpeg">
     </div>
   </body>  
 </HTML>
