@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+
 <HTML>
   <head>
     <title>COMO VAMOS</title>
