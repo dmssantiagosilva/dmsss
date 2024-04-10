@@ -1,7 +1,7 @@
 
 <HTML>
   <head>
-    COMO VAMOS 10 E ABRIL DEL 2024
+    COMO VAMOS 10 DE ABRIL DEL 2024
   </head>
   <body>
     <div id="una capa">
