@@ -14,28 +14,28 @@
     }
     .contenedor-titulo {
         text-align: center;
-        margin-top: 10vh; /* Ajusta la posición vertical del título */
-        padding: 20px; /* Añadimos un poco de espacio alrededor del título */
+        margin-top: 20vh; /* Ajusta la posición vertical del título */
+        padding: 40px; /* Añadimos más espacio alrededor del título */
         background-color: rgba(0, 0, 0, 0.5); /* Fondo semitransparente */
     }
     h1 {
-        font-size: 2.5em; /* Tamaño del título */
+        font-size: 3em; /* Tamaño del título aumentado */
         color: white; /* Color del texto */
         margin: 0; /* Eliminamos el margen predeterminado del título */
     }
     .contenedor-imagen {
         text-align: center;
-        margin-top: 5vh; /* Ajusta la posición vertical de la imagen */
+        margin-top: 10vh; /* Ajusta la posición vertical de la imagen */
         position: relative; /* Hacemos que el contenedor de la imagen sea relativo para posicionar el separador */
     }
     .contenedor-imagen img {
-        max-width: calc(100% - 40px); /* Reducimos la anchura de la imagen en 40px (20px de margen a cada lado) */
+        max-width: calc(100% - 80px); /* Reducimos la anchura de la imagen en 80px (40px de margen a cada lado) */
         height: auto;
-        margin: 20px; /* Mantenemos el margen de 20px en la parte superior e inferior */
-        border-left: 10px solid white; /* Separador a la izquierda de la imagen */
-        border-right: 10px solid white; /* Separador a la derecha de la imagen */
-        border-top: 10px solid white; /* Separador arriba de la imagen */
-        border-bottom: 10px solid white; /* Separador abajo de la imagen */
+        margin: 40px; /* Añadimos más margen a la imagen */
+        border-left: 20px solid white; /* Separador a la izquierda de la imagen */
+        border-right: 20px solid white; /* Separador a la derecha de la imagen */
+        border-top: 20px solid white; /* Separador arriba de la imagen */
+        border-bottom: 20px solid white; /* Separador abajo de la imagen */
     }
 </style>
 </head>
