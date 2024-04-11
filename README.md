@@ -1,3 +1,4 @@
+
 <html lang="es">
 <head>
 <meta charset="UTF-8">
@@ -32,8 +33,8 @@
         max-width: calc(100% - 40px); /* Reducimos la anchura de la imagen en 40px (20px de margen a cada lado) */
         height: auto;
         margin: 20px; /* Mantenemos el margen de 20px en la parte superior e inferior */
-        border-left: 10px solid white; /* Separador a la izquierda de la imagen */
-        border-right: 10px solid white; /* Separador a la derecha de la imagen */
+        border-top: 10px solid white; /* Separador arriba de la imagen */
+        border-bottom: 10px solid white; /* Separador abajo de la imagen */
     }
 </style>
 </head>
