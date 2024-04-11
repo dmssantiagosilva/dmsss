@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="es">
 <head>
 <meta charset="UTF-8">
@@ -17,11 +18,14 @@
         margin-top: 20vh; /* Ajusta la posición vertical del título */
         padding: 40px; /* Añadimos más espacio alrededor del título */
         background-color: rgba(0, 0, 0, 0.5); /* Fondo semitransparente */
+        border-top: 20px solid white; /* Separador arriba del título */
+        border-bottom: 20px solid white; /* Separador abajo del título */
     }
     h1 {
         font-size: 3em; /* Tamaño del título aumentado */
         color: white; /* Color del texto */
         margin: 0; /* Eliminamos el margen predeterminado del título */
+        line-height: 1; /* Ajustamos la altura de línea a 1 para eliminar cualquier espacio adicional */
     }
     .contenedor-imagen {
         text-align: center;
