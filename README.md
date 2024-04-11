@@ -18,9 +18,9 @@
         margin-top: 20vh; /* Ajusta la posición vertical de la imagen */
     }
     .contenedor-imagen img {
-        max-width: 100%;
+        max-width: calc(100% - 40px); /* Reducimos la anchura de la imagen en 40px (20px de margen a cada lado) */
         height: auto;
-        margin: 20px; /* Agregamos un margen de 20px a la imagen */
+        margin: 20px; /* Mantenemos el margen de 20px en la parte superior e inferior */
     }
 </style>
 </head>
