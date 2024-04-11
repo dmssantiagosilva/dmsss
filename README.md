@@ -29,13 +29,14 @@
         position: relative; /* Hacemos que el contenedor de la imagen sea relativo para posicionar el separador */
     }
     .contenedor-imagen img {
-        max-width: calc(100% - 80px); /* Reducimos la anchura de la imagen en 80px (40px de margen a cada lado) */
+        width: calc(100% - 80px); /* Reducimos la anchura de la imagen en 80px (40px de margen a cada lado) */
         height: auto;
-        margin: 40px; /* Añadimos más margen a la imagen */
+        margin: 40px auto; /* Añadimos más margen a la imagen y centramos horizontalmente */
         border-left: 20px solid white; /* Separador a la izquierda de la imagen */
         border-right: 20px solid white; /* Separador a la derecha de la imagen */
         border-top: 20px solid white; /* Separador arriba de la imagen */
         border-bottom: 20px solid white; /* Separador abajo de la imagen */
+        display: block; /* Para que los márgenes automáticos funcionen correctamente */
     }
 </style>
 </head>
