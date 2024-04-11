@@ -4,7 +4,7 @@
     COMO VAMOS 10 DE ABRIL DEL 
     <style>
       p {
-        background-image: url("fondo.jpg");
+        background-image: "fondo.jpg";
       }
     </style>
   </head>
