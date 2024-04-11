@@ -1,7 +1,12 @@
 
 <HTML>
   <head>
-    COMO VAMOS 10 DE ABRIL DEL 2024
+    COMO VAMOS 10 DE ABRIL DEL 
+    <style>
+      p {
+        background-image: url("fondo.jpg");
+      }
+    </style>
   </head>
   <body>
     <div id="una capa">
