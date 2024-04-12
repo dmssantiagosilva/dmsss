@@ -33,7 +33,7 @@
         position: relative; /* Hacemos que el contenedor de la imagen sea relativo para posicionar el separador */
     }
     .contenedor-imagen img {
-        width: calc(100% - 100px); /* Reducimos la anchura de la imagen en 80px (40px de margen a cada lado) */
+        width: calc(100% - 0px); /* Reducimos la anchura de la imagen en 80px (40px de margen a cada lado) */
         height: auto;
         margin: 10px auto; /* Añadimos más margen a la imagen y centramos horizontalmente */
         border-left: 20px solid white; /* Separador a la izquierda de la imagen */
