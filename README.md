@@ -52,7 +52,7 @@
         <img src="pos1204.jpeg" alt="Imagen CV 1004">
     </div>
     <div class="contenedor-imagen">
-        <img src="cv1204.jpg" alt="Otra Imagen">
+        <img src="cv124.jpg" alt="Otra Imagen">
     </div>
 </body>
 </html>
