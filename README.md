@@ -1,3 +1,4 @@
+
 <html lang="es">
 <head>
 <meta charset="UTF-8">
@@ -15,6 +16,7 @@
     .contenedor-titulo {
         text-align: center;
         margin-top: 20vh; /* Ajusta la posición vertical del título */
+        padding: 40px; /* Añadimos más espacio alrededor del título */
         background-color: rgba(0, 0, 0, 0.5); /* Fondo semitransparente */
         border-top: 20px solid white; /* Separador arriba del título */
         border-bottom: 20px solid white; /* Separador abajo del título */
@@ -47,7 +49,10 @@
         <h1>TECNOMOVIL CENTRO</h1>
     </div>
     <div class="contenedor-imagen">
-        <img src="cv1104.jpg" alt="Imagen CV 1004">
+        <img src="cv1004.jpg" alt="Imagen CV 1004">
+    </div>
+    <div class="contenedor-imagen">
+        <img src="pos1104.jpg" alt="Otra Imagen">
     </div>
 </body>
 </html>
