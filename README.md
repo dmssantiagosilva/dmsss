@@ -15,8 +15,8 @@
     }
     .contenedor-titulo {
         text-align: center;
-        margin-top: 20vh; /* Ajusta la posición vertical del título */
-        padding: 40px; /* Añadimos más espacio alrededor del título */
+        margin-top: 10vh; /* Ajusta la posición vertical del título */
+        padding: 20px; /* Añadimos más espacio alrededor del título */
         background-color: rgba(0, 0, 0, 0.5); /* Fondo semitransparente */
         border-top: 20px solid white; /* Separador arriba del título */
         border-bottom: 20px solid white; /* Separador abajo del título */
