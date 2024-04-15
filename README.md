@@ -49,10 +49,7 @@
         <h1>TECNOMOVIL CENTRO</h1>
     </div>
     <div class="contenedor-imagen">
-        <img src="pos1204.jpeg" alt="Imagen CV 1004">
-    </div>
-    <div class="contenedor-imagen">
-        <img src="cv1304.jpg" alt="Otra Imagen">
+        <img src="cv1504.jpg" alt="Otra Imagen">
     </div>
 </body>
 </html>
